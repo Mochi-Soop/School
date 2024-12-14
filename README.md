@@ -1,2 +1,2 @@
-# School
-Classwork
+# How My Systems Work
+In Project 1, I built a digital twin for a corporation using Python. The concept for this corporation was that it was going to be a corporation with multiple stores, all of which sell gummy candies in different fruit flavors, in different shapes, and two different textures: whether they are sour gummies or sugared gummies, with various random combinations of flavors, shapes, and texture. Project 1 achieves this by creating a randomized CSV file for 100,000 transactions in 2024. The CSV file uploaded here is the basis for Projects 2-3, which aim to mine the data produced in Project 1 and answer various questions about the corporation's sales and make various predictions. 
